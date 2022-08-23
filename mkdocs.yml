@@ -1,11 +1,12 @@
-site_name: HCM US Documentation
+site_name: Nautilus UFRGS
 
--Nautilus:
-  -Quem somos: home/quem_somos.md
--Elétrica:
-  -Responsabilidades: eletrica/eletrica.md
-  -Treinamentos:
-    -Placas: eletrica/placas.md
+nav:
+  -Nautilus:
+    -Quem somos: home/quem_somos.md
+  -Elétrica:
+    -Responsabilidades: eletrica/eletrica.md
+    -Treinamentos:
+      -Placas: eletrica/placas.md
 
 # Repo link + name
 repo_url: https://github.com/nautilusufrgs/nautilus.git
