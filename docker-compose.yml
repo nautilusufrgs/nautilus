@@ -1,0 +1,11 @@
+version: "3.0"
+services:
+  mkdocs:
+    image: us/documentation
+    build:
+      dockerfile: mkdocs.dockerfile
+      context: .
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - 8000:8000

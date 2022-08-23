@@ -1,0 +1,9 @@
+.idea/
+site/
+docs-gen/
+
+# Reserved for python virtual environment
+env
+
+# Visual code folder
+.DS_Store
