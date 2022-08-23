@@ -10,7 +10,7 @@ site_name: HCM US Documentation
 # Repo link + name
 repo_url: https://github.com/nautilusufrgs/nautilus.git
 repo_name: nautilusufrgs/nautilus
-edit_uri: edit/master/docs/
+edit_uri: edit/main/docs/
 site_url:
 use_directory_urls: false
 
